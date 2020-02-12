@@ -255,7 +255,7 @@ header .intro-text {
 	margin: 10px;
 }
 #services .service-media img {
-	position: relative;
+	position: block !important;
 	width: 225px;
 	height: 225px;
 	border-radius: 50%;
